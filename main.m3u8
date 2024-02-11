@@ -42,10 +42,15 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="Entertainment",Dali TV (大立電視台)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
 #EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/FTV-NEWS-Logo.jpg" group-title="Entertainment", 民視FTV
 https://4gtvfreemobile-mozai.4gtv.tv/Cq-fJtpLEJGaC1DMZPd-04fu4vjKdcr1EyMFawT1mrA%3d/stream2.m3u8?token=V51x2wm13IkiP7ecYlTXVA&expires=1707682025&refer=ZjNhYzRkY2MtMWJmNC00YmZiLThkOGItNGQ3ODM3ZTRjYjAz&token1=tpsDa8VkUe0QncfHoM6EQg&expires1=1707710825&y=0&vt=
 #EXTINF:-1 tvg-id="FTV-第一台.tw" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="Entertainment", 民視第一台
 https://4gtvfreemobile-mozai.4gtv.tv/LsORzwkYvdeXwUPv57X18Nos_A-J_Y5LaaFlt8KXILg%3d/stream2.m3u8?token=GJlBsTep10TcYXsVbnH3Rg&expires=1707682528&refer=ZmRjNjk4NTItZjA1Ni00N2NiLWFhNTQtNDhlZjJmNWVlM2I0&token1=wTu8BMXnDq_kcYmOfOJIUg&expires1=1707711328&y=0&vt=
+#EXTINF:-1 tvg-id="FTV-綜藝台.tw" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="Drama", 民視綜藝台
+https://4gtvfreemobile-mozai.4gtv.tv/J-nmrVLgJIW4ewT1IgvD3UxEyoAY_DDObdIrIrxB-jw%3d/stream2.m3u8?token=_cdeM1NDC_QMStW_pAY7eQ&expires=1707682712&refer=YjdmMGVmNmQtZTkyOC00MDFiLWE2MTctOTlmMjMzNmJiYzk5&token1=xrP9mqHk5jVLhwH4uVJGWg&expires1=1707711512&y=0&vt=
+
+
 #EXTINF:-1 tvg-id="CTi.tw" tvg-logo="" group-title="Entertainment",CTi Variety (中天综合台)
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="EBCMovie.tw" tvg-logo="https://i.imgur.com/dMAS4Qa.png" group-title="Movies",EBC Movie (東森電影)

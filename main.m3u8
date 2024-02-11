@@ -16,6 +16,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2022/04/HBO-Symbol-700x394-1.jpeg" group-title="Movie",HBO
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2022/04/HBO-Symbol-700x394-1.jpeg" group-title="Movie",HBO 2
+http://gg.gg/HaNoiIPTV-HBO_HD
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1200px-Cinemax_2016.svg.png" group-title="Movie",CINEMAX
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20231011T001126SQUARE.png_20231011001127.png" tvg-chno="1462" group-title="Movies" , Paramount Movie Channel

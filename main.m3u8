@@ -14,9 +14,9 @@ http://fpt.vthanhtivi.pw/axn/index.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Movies",tvN Movies (Indonesian Subtitle)
 http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Movie",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2022/04/HBO-Symbol-700x394-1.jpeg" group-title="Movie",HBO
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="" group-title="Movie",CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1200px-Cinemax_2016.svg.png" group-title="Movie",CINEMAX
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20231011T001126SQUARE.png_20231011001127.png" tvg-chno="1462" group-title="Movies" , Paramount Movie Channel
 https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
@@ -26,7 +26,7 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Entertainment",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture",NHK World-Japan
 http://203.162.235.41:13092
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -51,31 +51,31 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="Entertainment",TVB Jade
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-4 (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",CCTV-4 (1080p)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片1
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片2
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片3
 http://epg.112114.xyz/douyu/9249162
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu8
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu9
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu15
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu15
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu19
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu19
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu20
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu20
 http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu24
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu25
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu25
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu28
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu28
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",douyu44
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu44
 http://epg.112114.xyz/douyu/323876

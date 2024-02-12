@@ -59,23 +59,6 @@ https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 
-#EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="Entertainment", 民視
-https://m3u8.ooshopoointl.workers.dev?channelName=FTV
-#EXTINF:-1 tvg-id="FTV-第一台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="Entertainment", 民視第一台
-https://m3u8.ooshopoointl.workers.dev?channelName=FMTV
-#EXTINF:-1 tvg-id="FTV-台灣台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="Entertainment", 民視台灣台
-https://m3u8.ooshopoointl.workers.dev?channelName=FTTV
-#EXTINF:-1 tvg-id="FTV-綜藝台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="Entertainment", 民視綜藝台
-https://m3u8.ooshopoointl.workers.dev?channelName=FTVVariety
-#EXTINF:-1 tvg-id="FTV-旅遊台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="Travel", 民視旅遊台
-https://m3u8.ooshopoointl.workers.dev?channelName=FTVTravel
-#EXTINF:-1 tvg-id="FTV-新聞台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="News", 民視新聞台
-https://m3u8.ooshopoointl.workers.dev?channelName=FTVNews
-#EXTINF:-1 tvg-id="FTV-影劇台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="Drama", 民視影劇台
-https://m3u8.ooshopoointl.workers.dev?channelName=FTVDrama
-
-
-
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="Entertainment",TVB Jade
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 

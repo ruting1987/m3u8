@@ -23,6 +23,11 @@ https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20231011T001126SQUARE.png_20231011001127.png" tvg-chno="1462" group-title="Movies" , Paramount Movie Channel
 https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
 
+#EXTINF:-1 tvg-id="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Cartoon" , Disney Channel
+Disney：http://38.96.178.201/live/Disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Cartoon" , Disney XD Channel
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="USAJ3504502A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20230125T022445SQUARE.png_20230125022445.png" tvg-chno="1440" group-title="Anime" , Anime All day
 https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8

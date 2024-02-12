@@ -43,14 +43,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="Entertainment",Dali TV (大立電視台)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
-#EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="Entertainment", 民視
-https://4gtvfreemobile-mozai.4gtv.tv/wD4zcTOKjmM70y-9BGkknVY6iH226ffNA9EbXRyHzYk%3d/master.m3u8?token=NdRVelLkoOQjCTal-xxjEA&expires=1707735509&token1=7Q76qqpk-5D7DsRkFKSAdA&expires1=1707764309&refer=ZTFiMzQwOGQtZTZmNS00MGY0LWIxNmUtZWI5NGI3MWRjOTAw&y=0#EXTINF:-1 tvg-id="FTV-第一台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="Entertainment", 民視第一台
-#EXTINF:-1 tvg-id="FTV-綜藝台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="Drama", 民視綜藝台
-https://4gtvfreemobile-mozai.4gtv.tv/GaP0-IZhIuPS-sg0l7-yi7qoAeAPwDVBL0SKzRNlJ2k%3d/master.m3u8?token=zqzWGb37L6yvEf_ZA3pEXw&expires=1707735541&token1=gLN1AeSBQ_xJNa5WKl3QrA&expires1=1707764341&refer=MGI5MGI4YWItOTIzZi00OGVjLWFhYmQtZDM4OTc3NzRkMTBk&y=0
-#EXTINF:-1 tvg-id="FTV-影劇台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="Drama", 民視影劇台
-https://4gtvfreemobile-mozai.4gtv.tv/eMCNN01-wBErZFnwEO5-FzVhkkotTEIaSwCWxSueKZo%3d/stream2.m3u8?token=PuGcDcBSMzDR0z7kMnPdsg&expires=1707722001&refer=YTg2NDM4MDUtNzFmNS00MDQ4LThmNDktMDBmODc5OWY5MDg2&token1=qDbHJcQgfJDtgmqhCjVUtA&expires1=1707750801&y=0&vt=
-
-
 #EXTINF:-1 tvg-id="CTi.tw" tvg-logo="" group-title="Entertainment",CTi Variety (中天综合台)
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="EBCMovie.tw" tvg-logo="https://i.imgur.com/dMAS4Qa.png" group-title="Movies",EBC Movie (東森電影)
@@ -92,3 +84,14 @@ http://epg.112114.xyz/douyu/8814650
 http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu44
 http://epg.112114.xyz/douyu/323876
+
+
+#EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="Entertainment", 民視
+https://4gtvfreemobile-mozai.4gtv.tv/wD4zcTOKjmM70y-9BGkknVY6iH226ffNA9EbXRyHzYk%3d/master.m3u8?token=NdRVelLkoOQjCTal-xxjEA&expires=1707735509&token1=7Q76qqpk-5D7DsRkFKSAdA&expires1=1707764309&refer=ZTFiMzQwOGQtZTZmNS00MGY0LWIxNmUtZWI5NGI3MWRjOTAw&y=0
+#EXTINF:-1 tvg-id="FTV-第一台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="Entertainment", 民視第一台
+https://4gtvfreemobile-mozai.4gtv.tv/cPkF9u6X-k8aPgXw_mX2zcm3_HDdFOJ81dpjbjVXqF8%3d/master.m3u8?token=TBqosJwyPtQM-lerU8y2ug&expires=1707735808&token1=1yGpUU2PlU1yDjn-aOo_Ew&expires1=1707764608&refer=ZTc2MmIxNTMtNTFjOC00MTZjLTg3ZmYtNDY0ODg5ZTVmMjkw&y=0
+#EXTINF:-1 tvg-id="FTV-綜藝台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="Entertainment", 民視綜藝台
+https://4gtvfreemobile-mozai.4gtv.tv/GaP0-IZhIuPS-sg0l7-yi7qoAeAPwDVBL0SKzRNlJ2k%3d/master.m3u8?token=zqzWGb37L6yvEf_ZA3pEXw&expires=1707735541&token1=gLN1AeSBQ_xJNa5WKl3QrA&expires1=1707764341&refer=MGI5MGI4YWItOTIzZi00OGVjLWFhYmQtZDM4OTc3NzRkMTBk&y=0
+#EXTINF:-1 tvg-id="FTV-影劇台.tw" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="Drama", 民視影劇台
+https://4gtvfreemobile-mozai.4gtv.tv/orf-zP9rIbQ9HIxgKGOtW-796iR3YhvmNW00_ywH6po%3d/stream2.m3u8?token=OYMGV59JKU63rg2ylX8V6w&expires=1707735970&refer=YjI4ZTgxYmItYzI1ZS00OTUyLWE2ZTctY2M4M2MxYzkyYTMz&token1=9JFKUnM8Trh25XVAf00SGg&expires1=1707764770&y=0&vt=
+

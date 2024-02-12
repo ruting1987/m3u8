@@ -36,8 +36,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 group-title="Entertainment",TVBS
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="GeniusGoGoGo.tw" tvg-logo="https://i.imgur.com/GGdnGqH.png" group-title="Entertainment",天才衝衝衝
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="Entertainment",Dali TV (大立電視台)
@@ -56,33 +54,34 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="Entertainment",TVB Jade
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",CCTV-4 (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",CCTV-4
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片1
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片2
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片3 (4K HDR)
 http://epg.112114.xyz/douyu/9249162
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片4
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片5
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片6
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu15
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片7
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu19
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片8
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu20
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片9
 http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片10
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu25
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片11
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu28
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片12
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",douyu44
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",欧美大片13
 http://epg.112114.xyz/douyu/323876
 
 
